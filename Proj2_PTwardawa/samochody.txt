@@ -1,0 +1,6 @@
+2 5 0 skoda octavia 2011 60000 zielony 1.6.2017 0:0:0
+3 -1 -1 audi a6 2017 5000 czerwony 1.1.1 0:0:0
+5 -1 -1 nissan micra 2016 20000 czarny 1.1.1 0:0:0
+6 10 5 opel astra 2004 150000 srebrny 6.6.2017 11:25:49
+7 10 5 opel vectra 2007 200000 zielony 2.6.2017 23:25:45
+8 10 0 seat leon 2010 230000 czarny 5.6.2017 23:10:29

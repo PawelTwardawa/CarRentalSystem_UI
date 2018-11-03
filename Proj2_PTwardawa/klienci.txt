@@ -1,0 +1,6 @@
+0 pawel twardawa 12345678901 gdansk mazurska 8 97-400
+5 jan kowalski 87634134759 lodz lodzka 88 23-534
+7 jakub jakistam 23462870467 lublin wielkopolska 8 47-670
+8 karolina adamska 75391504857 warszawa wroclawska 8 99-400
+9 ewa glodna 87395717593 poznan mazurska 44 97-400
+10 jakub mysz 76549785201 warszawa mazowiecka 55/3 76-345

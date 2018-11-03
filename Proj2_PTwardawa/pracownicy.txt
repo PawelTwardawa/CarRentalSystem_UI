@@ -1,0 +1,5 @@
+0 jan kowalski 98765432190 warszawa ludowa 23 54-333 8.5.2017 3000
+2 agata nowa 76543456765 wroclaw lodzka 1 87-634 9.4.2017 4000
+4 adam adamski 34785612873 lodz lodzka 1 97-566 15.3.2017 3500
+5 jan nowak 64837459174 gdansk jakosci 100 54-234 12.3.2017 4000
+6 ewa kowalska 65449858604 szczecin pomorska 43 23-124 1.6.2011 5000
